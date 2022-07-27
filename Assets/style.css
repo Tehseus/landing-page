@@ -1,0 +1,17 @@
+*{
+    font-style: italic;
+    background-color: burlywood;
+}
+.caption{
+    font-size: 12px;
+}
+h1, h2, footer , li{
+    font-style: normal;
+}
+.facts {
+    background-color: cornsilk;
+}
+
+.form {
+    background-color: purple;
+}
